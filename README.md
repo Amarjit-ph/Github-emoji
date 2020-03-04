@@ -1,4 +1,4 @@
-# github_emoji
+# Github_emoji
 Complete list of github emoji
 
 People
